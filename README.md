@@ -57,7 +57,7 @@
 
 | Project | Description |
 |---------|-------------|
-| 🚀 **Gapina.ir** | internal messenger · search engine · news agency |
+| 🚀 **Gapina.ir** | int-co messenger · search engine · news agency |
 
 <p>
   <img src="https://img.shields.io/badge/status-active-7C3AED?style=flat-square" />

@@ -40,42 +40,27 @@
 ### frontend
 <br>
 
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" />   
-<img src="https://skillicons.dev/icons?i=vue" width="50" />   
-<img src="https://skillicons.dev/icons?i=nuxt" width="50" />   
-<img src="https://skillicons.dev/icons?i=tailwind" width="50" />   
-<img src="https://skillicons.dev/icons?i=js" width="50" />   
-<img src="https://skillicons.dev/icons?i=ts" width="50" />
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="45" /> **Vue.js**   |  
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" /> **Tailwind CSS**   |  
+<img src="https://skillicons.dev/icons?i=ts" width="45" /> **TypeScript**
 
 <br><br>
 
 ### backend
 <br>
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" />   
-<img src="https://skillicons.dev/icons?i=flask" width="50" />   
-<img src="https://skillicons.dev/icons?i=fastapi" width="50" />   
-<img src="https://skillicons.dev/icons?i=django" width="50" />
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45" /> **Python**   |  
+<img src="https://skillicons.dev/icons?i=fastapi" width="45" /> **FastAPI**   |  
+<img src="https://skillicons.dev/icons?i=django" width="45" /> **Django**
 
 <br><br>
 
-### database
+### database & tools
 <br>
 
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" />   
-<img src="https://skillicons.dev/icons?i=mysql" width="50" />   
-<img src="https://skillicons.dev/icons?i=postgres" width="50" />   
-<img src="https://skillicons.dev/icons?i=sqlite" width="50" />
-
-<br><br>
-
-### tools
-<br>
-
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" />   
-<img src="https://skillicons.dev/icons?i=docker" width="50" />   
-<img src="https://skillicons.dev/icons?i=git" width="50" />   
-<img src="https://skillicons.dev/icons?i=github" width="50" />
+<img src="https://skillicons.dev/icons?i=postgres" width="45" /> **PostgreSQL**   |  
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="45" /> **Docker**   |  
+<img src="https://skillicons.dev/icons?i=git" width="45" /> **Git**
 
 </div>
 
@@ -101,9 +86,11 @@
 ## ▸ contact
 
 <div align="center">
-  <a href="mailto:omid@example.com">
+  <a href="mailto:rahmnaiomid198@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <p align="center" style="font-size: 12px; color: gray;">rahmnaiomid198@gmail.com</p>
+  
   <a href="https://gapina.ir">
     <img src="https://img.shields.io/badge/Gapina.ir-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>

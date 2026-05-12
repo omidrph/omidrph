@@ -26,11 +26,11 @@
       - 🚀 currently working on <b>Gapina.ir</b><br>
       - 🎯 daily routine: <code>code · learn · build</code><br>
       - 💡 fun fact: I always have a personal project to learn something new
-    </td>
+     </td>
     <td width="40%" align="center">
       <img src="https://camo.githubusercontent.com/b6b8f9a2b913ffcdc5cf0a660d1cd94c73929900dcc8d71a17842c748d877fe8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457863445a6b4e7a5934615751794d6a5a6f6247706f623239684d32786f64576c75646d5a365a6e5a314d32733561576830656a6c314d535a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f7167515567674143335066763638377150432f67697068792e676966" width="180" />
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 
 </div>
@@ -39,63 +39,27 @@
 
 ## ▸ stack
 
-<div align="center">
+**frontend**  
+`Vue.js` · `Nuxt.js` · `Tailwind CSS` · `JS/TS`
 
-### frontend
-<br>
+**backend**  
+`Python` · `Flask` · `FastAPI` · `Django`
 
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" />   
-<img src="https://skillicons.dev/icons?i=vue" width="50" />   
-<img src="https://skillicons.dev/icons?i=nuxt" width="50" />   
-<img src="https://skillicons.dev/icons?i=tailwind" width="50" />   
-<img src="https://skillicons.dev/icons?i=js" width="50" />   
-<img src="https://skillicons.dev/icons?i=ts" width="50" />
+**database**  
+`MySQL` · `PostgreSQL` · `SQLite`
 
-<br><br>
-
-### backend
-<br>
-
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" />   
-<img src="https://skillicons.dev/icons?i=flask" width="50" />   
-<img src="https://skillicons.dev/icons?i=fastapi" width="50" />   
-<img src="https://skillicons.dev/icons?i=django" width="50" />
-
-<br><br>
-
-### database
-<br>
-
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" />   
-<img src="https://skillicons.dev/icons?i=mysql" width="50" />   
-<img src="https://skillicons.dev/icons?i=postgres" width="50" />   
-<img src="https://skillicons.dev/icons?i=sqlite" width="50" />
-
-<br><br>
-
-### tools
-<br>
-
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" />   
-<img src="https://skillicons.dev/icons?i=docker" width="50" />   
-<img src="https://skillicons.dev/icons?i=git" width="50" />   
-<img src="https://skillicons.dev/icons?i=github" width="50" />
-
-</div>
+**tools**  
+`Docker` · `Git` · `GitHub`
 
 ---
 
 ## ▸ currently building
 
-<div align="center">
-  
-  | پروژه | توضیحات |
-  |-------|---------|
-  | 🚀 **Gapina.ir** | پیام‌رسان درون سازمانی · موتور جستجو · خبرگزاری تجمعی |
-  
-</div>
+| پروژه | توضیحات |
+|-------|---------|
+| 🚀 **Gapina.ir** | پیام‌رسان درون سازمانی · موتور جستجو · خبرگزاری تجمعی |
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/status-active-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/stack-Full%20Stack-7C3AED?style=flat-square" />
 </p>
@@ -104,15 +68,9 @@
 
 ## ▸ contact
 
-<div align="center">
-  
-  | | |
-  |---| ---|
-  | 💬 **پیام‌رسان** | [`chat.gapina.ir`](https://chat.gapina.ir) |
-  | 🌐 **وبسایت** | [`Gapina.ir`](https://gapina.ir) |
-  | 💼 **لینکدین** | [`linkedin.com/in/Omidrph`](https://linkedin.com/in/Omidrph) |
-  
-</div>
+- 💬 **پیام‌رسان:** [`chat.gapina.ir`](https://chat.gapina.ir)
+- 🌐 **وبسایت:** [`Gapina.ir`](https://gapina.ir)
+- 📧 **ایمیل:** `rahmnaiomid198@gmail.com`
 
 ---
 

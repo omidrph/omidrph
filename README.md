@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35" />
-</div>
-
 <h1 align="center">
   ✦ Omid ✦
 </h1>
@@ -21,30 +16,68 @@
 
 ## ▸ about
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZkNzY4aWQyMjZobGpob29hM2xodWludmZ6ZnZ1M2s5aWh0ejl1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-
-I'm a student and developer who loves building useful products — not just writing code.
-
-- 🎓 student + developer
-- 🚀 currently working on **Gapina.ir**
-- 🎯 daily routine: `code · learn · build`
-- 💡 fun fact: I always have a personal project to learn something new
+<table>
+  <tr>
+    <td>
+      <b>I'm a student and developer who loves building useful products — not just writing code.</b><br><br>
+      - 🎓 student + developer<br>
+      - 🚀 currently working on <b>Gapina.ir</b><br>
+      - 🎯 daily routine: <code>code · learn · build</code><br>
+      - 💡 fun fact: I always have a personal project to learn something new
+    </td>
+    <td align="right">
+      <img src="https://camo.githubusercontent.com/b6b8f9a2b913ffcdc5cf0a660d1cd94c73929900dcc8d71a17842c748d877fe8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457863445a6b4e7a5934615751794d6a5a6f6247706f623239684d32786f64576c75646d5a365a6e5a314d32733561576830656a6c314d535a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f7167515567674143335066763638377150432f67697068792e676966" width="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## ▸ stack
 
-**frontend**  
-`Vue.js` · `Nuxt.js` · `Tailwind CSS` · `JS/TS`
+<div align="center">
 
-**backend**  
-`Python` · `Flask` · `FastAPI` · `Django`
+### frontend
+<br>
 
-**database**  
-`MySQL` · `PostgreSQL` · `SQLite`
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" />   
+<img src="https://skillicons.dev/icons?i=vue" width="50" />   
+<img src="https://skillicons.dev/icons?i=nuxt" width="50" />   
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" />   
+<img src="https://skillicons.dev/icons?i=js" width="50" />   
+<img src="https://skillicons.dev/icons?i=ts" width="50" />
 
-**tools**  
-`Docker` · `Git` · `GitHub`
+<br><br>
+
+### backend
+<br>
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" />   
+<img src="https://skillicons.dev/icons?i=flask" width="50" />   
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" />   
+<img src="https://skillicons.dev/icons?i=django" width="50" />
+
+<br><br>
+
+### database
+<br>
+
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" />   
+<img src="https://skillicons.dev/icons?i=mysql" width="50" />   
+<img src="https://skillicons.dev/icons?i=postgres" width="50" />   
+<img src="https://skillicons.dev/icons?i=sqlite" width="50" />
+
+<br><br>
+
+### tools
+<br>
+
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" />   
+<img src="https://skillicons.dev/icons?i=docker" width="50" />   
+<img src="https://skillicons.dev/icons?i=git" width="50" />   
+<img src="https://skillicons.dev/icons?i=github" width="50" />
+
+</div>
 
 ---
 
@@ -80,11 +113,6 @@ I'm a student and developer who loves building useful products — not just writ
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" />
-</div>
 
 <p align="center">
   <i>build useful things, not just code</i>

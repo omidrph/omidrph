@@ -70,7 +70,7 @@
 
 - 💬 **messenger:** [`chat.gapina.ir`](https://chat.gapina.ir)
 - 🌐 **website:** [`Gapina.ir`](https://gapina.ir)
-- 📧 **email:** `rahmnaiomid198@gmail.com`
+- 📧 **email:** `omidrpe@gmail.com`
 
 ---
 
